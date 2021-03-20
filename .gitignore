@@ -3,3 +3,5 @@ env
 cheate.txt
 client_secret.json
 config.py
+*.sqlite
+ngrok
